@@ -61,7 +61,10 @@ p{
 		scroll-margin-top: 69px; 
 	}
 	.header_btn{
-		font-size: 17px;
+		font-size: 16px;
+	}
+	.header_btn a:hover{
+		border-bottom: #000 0.5px solid;
 	}
 }
 @media (min-width:1200px) {
@@ -109,7 +112,7 @@ p{
 		margin: 2vw 28px;
 	}
 	.hero_title_1{
-		width: 50vw;
+		width: 51vw;
 	}
 	.hero_title_2{
 		width: 59vw;
