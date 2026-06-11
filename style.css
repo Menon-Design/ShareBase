@@ -63,6 +63,9 @@ p{
 	.header_btn{
 		font-size: 16px;
 	}
+	.header_btn li + li{
+		margin-left: 10px;
+	}
 	.header_btn a:hover{
 		border-bottom: #000 0.5px solid;
 	}
